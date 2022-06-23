@@ -1,5 +1,6 @@
 <template>
-  <Tutorial/>
+  <div ref="root">
+  </div>
 </template>
 
 <script>
