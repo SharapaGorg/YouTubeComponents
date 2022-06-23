@@ -12,5 +12,8 @@ export default {
 
 <style scoped>
 
+.root {
+  @apply pt-[60px]
+}
 
 </style>

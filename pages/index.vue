@@ -1,5 +1,6 @@
 <template>
   <div ref="root">
+    <auth-form/>
   </div>
 </template>
 
